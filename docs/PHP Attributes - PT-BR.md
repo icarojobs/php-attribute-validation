@@ -321,7 +321,7 @@ namespace App\Validations\Rules\Contracts;
 
 interface LengthValidatorInterface
 {
-    public function validate(mixed $value, int $min = 0, int $max = 255);
+    public function validate(mixed $value, int $min, int $max);
 }
 ```
 
