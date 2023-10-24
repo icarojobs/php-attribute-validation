@@ -621,7 +621,7 @@ class Length implements ValidationRuleInterface
     public function __construct(
         public int $min,
         public int $max,
-		) { }
+    ) { }
 
     public function getValidator(): LengthValidatorInterface
     {
