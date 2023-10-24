@@ -20,4 +20,6 @@ Contributions are welcome! If you have any ideas or suggestions, feel free to op
 ### License
 This project is licensed under the MIT License.
 
-For more details, follow me on (https://youtube.com)[Youtube]
+For more details:
+- [Youtube](https://youtube.com/@tiojobs)
+- [Instagram](https://instagram.com/tiojobsoficial)
