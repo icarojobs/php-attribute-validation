@@ -6,6 +6,9 @@
 
 **85 bits (developer)** ([https://youtu.be/jHDcreU-yS4?t=1592](https://youtu.be/jHDcreU-yS4?t=1592))
 
+**DifferDev** ([https://www.youtube.com/watch?v=npUGI3klQqQ](https://www.youtube.com/watch?v=npUGI3klQqQ))
+
+
 ---
 
 Chegado na versão 8 da linguagem, os Attributes vieram para dar mais poderes ao PHP.
