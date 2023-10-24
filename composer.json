@@ -1,0 +1,19 @@
+{
+    "name": "tiojobs/php-attributes",
+    "description": "The php attributes study",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tio Jobs",
+            "email": "icarojobsoficial@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "symfony/var-dumper": "^6.3"
+    }
+}
